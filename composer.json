@@ -1,5 +1,5 @@
 {
-    "name": "noiselabs/smarty-bundle",
+    "name": "eufrost/smarty-bundle",
     "type": "symfony-bundle",
     "description": "This Symfony2 bundle provides integration for the Smarty3 template engine.",
     "keywords": ["templating", "smarty", "symfony", "noiselabs"],
